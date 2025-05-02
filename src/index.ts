@@ -10,7 +10,7 @@ const NEWS_API_KEY = process.env.NEWS_API_KEY;
 const NEWS_API_URL = 'https://newsapi.org/v2/top-headlines';
 
 if (!NEWS_API_KEY) {
-  console.error("❌ NEWS_API_KEY is not set in .env");
+  console.error("❌ NEWS_API_KEY is not set!");
   process.exit(1);
 }
 
