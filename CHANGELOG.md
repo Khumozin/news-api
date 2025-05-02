@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Khumozin/news-api/compare/v1.0.1...v1.0.2) (2025-05-02)
+
+
+### Bug Fixes
+
+* add typescript to docker ([cd940b0](https://github.com/Khumozin/news-api/commit/cd940b0cc5707c7a5698c36f28dedb0872c9ad11))
+
 ## [1.0.1](https://github.com/Khumozin/news-api/compare/v1.0.0...v1.0.1) (2025-05-02)
 
 
