@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Khumozin/news-api/compare/v1.0.2...v1.0.3) (2025-05-02)
+
+
+### Bug Fixes
+
+* install all deps on docker ([881e474](https://github.com/Khumozin/news-api/commit/881e474a6ddb42e54f8b2f4a871543d91d5cd6bb))
+
 ## [1.0.2](https://github.com/Khumozin/news-api/compare/v1.0.1...v1.0.2) (2025-05-02)
 
 
