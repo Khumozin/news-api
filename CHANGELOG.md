@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Khumozin/news-api/compare/v1.0.0...v1.0.1) (2025-05-02)
+
+
+### Bug Fixes
+
+* **src:** change apikey message ([e350f72](https://github.com/Khumozin/news-api/commit/e350f7237eb5b9bd94c9f0faa02678099cf9c0eb))
+
 # 1.0.0 (2025-05-02)
 
 
