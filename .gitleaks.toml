@@ -1,0 +1,5 @@
+[[rules]]
+id = "custom-api-key"
+description = "Matches 32-character hex API keys like d703afe07b124bfcb4c9423e4d8d6dc5"
+regex = '''(?i)(apikey|api_key|key)?\s*[:=]\s*["']?[a-f0-9]{32}["']?'''
+tags = ["apikey", "custom"]
