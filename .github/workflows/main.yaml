@@ -21,9 +21,7 @@ jobs:
     secrets: inherit
 
   gitleaks:
-    uses: khumozin/workflow-templates/.github/workflows/gitleaks-secret-scan.yml@1.6.0
-    with:
-      config_path: ".gitleaks.toml"
+    uses: khumozin/workflow-templates/.github/workflows/gitleaks-secret-scan.yml@1.5.0
 
   semantic-release:
     needs: [build, snyk, git-guardian, gitleaks]
