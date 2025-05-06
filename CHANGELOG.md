@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Khumozin/news-api/compare/v1.0.3...v1.0.4) (2025-05-06)
+
+
+### Bug Fixes
+
+* **src:** handle undefined apikey ([d2bfbbb](https://github.com/Khumozin/news-api/commit/d2bfbbbb4941f681ed2abc8b0d525d7ec12b9793))
+
 ## [1.0.3](https://github.com/Khumozin/news-api/compare/v1.0.2...v1.0.3) (2025-05-02)
 
 
